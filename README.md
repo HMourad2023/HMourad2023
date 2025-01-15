@@ -1,21 +1,73 @@
-# 💼 About Me  
+# 👋 Hi, I'm **Mourad Hamzaoui**
 
-I am a **Technical Specialist in Artificial Intelligence**, passionate about building innovative AI solutions and sharing my work with the community. With strong expertise in **Deep Learning**, **Machine Learning**, and **Generative AI**, I enjoy exploring new ideas, developing AI projects, and contributing to collaborative initiatives.  
+### 💼 AI Technical Specialist | Data Analyst | MLOps Enthusiast
 
-🔍 **Areas of Expertise**:  
-- **Python**: End-to-end AI solution development, from data collection to model deployment.  
-- **Data Analysis & Visualization**: Creating interactive dashboards and performing predictive analytics using **Power BI**.  
-- **MLOps**: Managing machine learning pipelines and tracking model performance with tools such as **DVC**, **MLFlow**, and **Docker**.  
-- **Agentic AI**: Developing multi-agent systems using platforms like **CrewAI**, **Phidata**, and more.  
+Passionate about **data science** and **artificial intelligence**, I have hands-on experience leading diverse projects in **machine learning**, **deep learning**, and **generative AI**, while mastering business intelligence tools. Curious and constantly improving, I thrive on building innovative AI solutions and sharing knowledge with the community.
 
-🚀 I am constantly learning and experimenting with cutting-edge AI technologies, focusing on applications in **renewable energy** and **aviation** sectors.  
+---
 
-### 🌱 **Currently Working On**  
-- Fine-tuning advanced language models like **LLaMA** for specific applications.  
-- Exploring generative AI integration in multi-agent systems.
+### 🔧 **Skills & Tools**
 
-### 🤝 **Let’s Connect!**  
-If you’re interested in collaboration or discussing exciting AI topics, feel free to reach out!
+#### 🧠 **AI & Machine Learning**
+- **ML/DL Frameworks**: Scikit-learn, Keras, TensorFlow  
+- **Generative AI**: LangChain, CrewAI, Phidata, AutoGen  
+- **Deep Learning Models**: CNNs, RNNs, GANs, Transformers  
+
+#### 📊 **Data Analysis & Visualization**
+- **Tools**: Power BI, Tableau, Pandas, PySpark, Matplotlib, Seaborn  
+- **Databases**: SQL Server, MySQL, MongoDB, ChromaDB, Pinecone  
+
+#### 🚀 **MLOps & Deployment**
+- **MLOps Tools**: DVC, MLFlow, GitHub Actions, Docker, Kubernetes  
+- **CI/CD**: Jenkins, Git, GitHub  
+- **Cloud Platforms**: Microsoft Azure, Google AI Studio
+
+#### 💻 **Development**
+- **Languages**: Python, SQL, HTML5, CSS3  
+- **Web Frameworks**: Flask, Streamlit, Gradio
+
+---
+
+### 📈 **Professional Experience**
+
+- **AI Internship – Solutions Comptables 360** (08/2024 – 10/2024)  
+  Led AI-driven data analysis and predictive modeling projects.
+  
+- **Station Manager – Air Algérie, Montreal** (08/2018 – 06/2022)  
+  Managed operations, coordinated with Transport Canada, and implemented airport systems.  
+
+- **DCS Trainer – Air Algérie, Algeria** (06/2018 – 07/2018)  
+  Designed and delivered tailored training programs for flight handling agents.  
+
+---
+
+### 🎓 **Education**
+- **Specialization in AI Technical Studies** – Collège Bois de Boulogne, Montreal  
+- **Master’s in Data Science** – Intellipaat, India  
+
+---
+
+### 🏅 **Certifications**
+- **Python Programming Expert** – Edureka  
+- **Artificial Intelligence** – Intellipaat  
+- **Machine Learning** – Intellipaat  
+- **Tableau Desktop Associate** – Edureka  
+
+---
+
+### 🌱 **Currently Working On**
+- Fine-tuning **LLaMA** for generative graph creation.  
+- Building multi-agent AI systems using **LangChain**, **CrewAI**, and **Phidata**.  
+
+---
+
+### 🤝 **Let’s Connect**
+- **Email**: [hamzaoui.mourad@outlook.com](mailto:hamzaoui.mourad@outlook.com)  
+- **LinkedIn**: [linkedin.com/in/mourad-hamzaoui](https://www.linkedin.com/in/mourad-hamzaoui)  
+- **GitHub**: [github.com/HMourad2023](https://github.com/HMourad2023)
+
+---
+
 
 ## 🚀 Projects Showcase  
 
