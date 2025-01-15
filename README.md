@@ -16,3 +16,31 @@ I am a **Technical Specialist in Artificial Intelligence**, passionate about bui
 
 ### 🤝 **Let’s Connect!**  
 If you’re interested in collaboration or discussing exciting AI topics, feel free to reach out!
+
+## 🚀 Projects Showcase  
+
+### 1. **Customer Satisfaction Dashboard for Airlines**  
+🔗 [View Project Repository](https://github.com/YourUsername/Customer-Satisfaction-Dashboard)  
+A Power BI dashboard for customer satisfaction analysis using **Python**, **PyCaret**, and **Power BI**. It includes:
+- Data cleaning, preprocessing, and clustering using PyCaret.
+- Predictive analytics integrated with Power BI.
+- Interactive visualizations for better decision-making.
+
+---
+
+### 2. **AI Video Summarizer**  
+🔗 [View Project Repository](https://github.com/HMourad2023/Video-Summarizer)  
+A Python-based application for summarizing YouTube videos using **Phidata**, **Google Studio AI**, and **Streamlit**. Key features include:
+- Automatic video download and transcription.
+- AI-generated summaries presented in a user-friendly interface.
+- Deployed as a web app with Streamlit.
+
+---
+
+### 3. **MLOps Multi-Output Prediction**  
+🔗 [View Project Repository](https://github.com/HMourad2023/MLOps-Multi-Output-Prediction)  
+An end-to-end MLOps project predicting passenger, mail, and freight quantities using **DVC**, **MLFlow**, and **Docker**. Highlights include:
+- Data versioning and pipeline automation.
+- Multi-output prediction models with performance tracking.
+- Dockerized deployment for scalability.
+
