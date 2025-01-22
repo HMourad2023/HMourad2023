@@ -90,7 +90,7 @@ A Python-based application for summarizing YouTube videos using **Phidata**, **G
 ---
 
 ### 3. **MLOps Multi-Output Prediction**  
-🔗 [View Project Repository](https://github.com/HMourad2023/MLOps-Multi-Output-Prediction)  
+🔗 [View Project Repository](https://github.com/HMourad2023/End-To-End-MLOPS-Airline-Project.git)  
 An end-to-end MLOps project predicting passenger, mail, and freight quantities using **DVC**, **MLFlow**, and **Docker**. Highlights include:
 - Data versioning and pipeline automation.
 - Multi-output prediction models with performance tracking.
