@@ -2,7 +2,7 @@
 
 ### 💼 AI Technical Specialist | Data Analyst | MLOps Enthusiast
 
-Passionate about **data science** and **artificial intelligence**, I have hands-on experience leading diverse projects in **machine learning**, **deep learning**, and **generative AI**, while mastering business intelligence tools. Curious and constantly improving, I thrive on building innovative AI solutions and sharing knowledge with the community.
+Passionate about data science and artificial intelligence, I have hands-on experience leading diverse projects in machine learning, deep learning, and generative AI, while demonstrating proficiency in business intelligence tools. Curious and constantly improving, I thrive on building innovative AI solutions and sharing knowledge with the community.
 
 ---
 
