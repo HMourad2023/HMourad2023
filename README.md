@@ -81,7 +81,7 @@ A Power BI dashboard for customer satisfaction analysis using **Python**, **PyCa
 ---
 
 ### 2. **AI Video Summarizer**  
-🔗 [View Project Repository](https://github.com/HMourad2023/Video-Summarizer)  
+🔗 [View Project Repository](https://github.com/HMourad2023/Video-AI-Summarizer.git)  
 A Python-based application for summarizing YouTube videos using **Phidata**, **Google Studio AI**, and **Streamlit**. Key features include:
 - Automatic video download and transcription.
 - AI-generated summaries presented in a user-friendly interface.
