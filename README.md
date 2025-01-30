@@ -97,9 +97,13 @@ An end-to-end MLOps project predicting passenger, mail, and freight quantities u
 - Dockerized deployment for scalability.
 
 ### 4. **MLOps Multi-Output Prediction**  
-🔗 [View Project Repository]()  
-An end-to-end MLOps project predicting passenger, mail, and freight quantities using **DVC**, **MLFlow**, and **Docker**. Highlights include:
-- Data versioning and pipeline automation.
-- Multi-output prediction models with performance tracking.
-- Dockerized deployment for scalability.
+🔗 [View Project Repository](https://github.com/HMourad2023/Youtube-Timestamps-Agent.git)
+YouTube Timestamps Generator is an AI-powered application that automatically creates detailed chapter markers for YouTube videos. Using Google's Gemini 1.5 Flash AI through the Phidata framework, this tool analyzes video content to generate accurate timestamps in [start, end, summary] format.:
+- YouTube URL processing
+- AI-powered timestamp generation
+-  Structured output in [start, end, summary] format
+- Video length validation
+- Customizable UI with CSS styling
+-  Anti-hallucination safeguards
+-  Responsive web interface
 
