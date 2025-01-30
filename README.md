@@ -96,3 +96,10 @@ An end-to-end MLOps project predicting passenger, mail, and freight quantities u
 - Multi-output prediction models with performance tracking.
 - Dockerized deployment for scalability.
 
+### 4. **MLOps Multi-Output Prediction**  
+🔗 [View Project Repository]()  
+An end-to-end MLOps project predicting passenger, mail, and freight quantities using **DVC**, **MLFlow**, and **Docker**. Highlights include:
+- Data versioning and pipeline automation.
+- Multi-output prediction models with performance tracking.
+- Dockerized deployment for scalability.
+
