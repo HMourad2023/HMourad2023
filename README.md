@@ -71,7 +71,8 @@ Passionate about data science and artificial intelligence, I have hands-on exper
 
 ## 🚀 Projects Showcase  
 
-### 1. **Customer Satisfaction Dashboard for Airlines**  
+### 1. **Customer Satisfaction Dashboard for Airlines**    
+
 🔗 [View Project Repository](https://github.com/YourUsername/Customer-Satisfaction-Dashboard)  
 A Power BI dashboard for customer satisfaction analysis using **Python**, **PyCaret**, and **Power BI**. It includes:
 - Data cleaning, preprocessing, and clustering using PyCaret.
@@ -80,7 +81,8 @@ A Power BI dashboard for customer satisfaction analysis using **Python**, **PyCa
 
 ---
 
-### 2. **AI Video Summarizer**  
+### 2. **AI Video Summarizer**    
+
 🔗 [View Project Repository](https://github.com/HMourad2023/Video-AI-Summarizer.git)  
 A Python-based application for summarizing YouTube videos using **Phidata**, **Google Studio AI**, and **Streamlit**. Key features include:
 - Automatic video download and transcription.
@@ -89,14 +91,16 @@ A Python-based application for summarizing YouTube videos using **Phidata**, **G
 
 ---
 
-### 3. **MLOps Multi-Output Prediction**  
+### 3. **MLOps Multi-Output Prediction**    
+
 🔗 [View Project Repository](https://github.com/HMourad2023/End-To-End-MLOPS-Airline-Project.git)  
 An end-to-end MLOps project predicting passenger, mail, and freight quantities using **DVC**, **MLFlow**, and **Docker**. Highlights include:
 - Data versioning and pipeline automation.
 - Multi-output prediction models with performance tracking.
 - Dockerized deployment for scalability.
 
-### 4. **YouTube Timestamps Generator**  
+### 4. **YouTube Timestamps Generator**    
+
 🔗 [View Project Repository](https://github.com/HMourad2023/Youtube-Timestamps-Agent.git)
 YouTube Timestamps Generator is an AI-powered application that automatically creates detailed chapter markers for YouTube videos. Using Google's Gemini 1.5 Flash AI through the Phidata framework, this tool analyzes video content to generate accurate timestamps in [start, end, summary] format.:
 - YouTube URL processing
